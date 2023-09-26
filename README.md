@@ -3,7 +3,10 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # INK - LAMA LAMA 
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+We ontwikkelen een dynamische website voor INK - Lama Lama's voetbalclub in Rio de Janeiro om sponsoren aan te trekken en het inspirerende verhaal van de club te delen, met als doel jongeren te beschermen tegen negatieve invloeden op straat.
+
+![MicrosoftTeams-image (6)](https://github.com/ArexanK/INK-the-client-case-S14/assets/94745953/8c88fe0b-171b-4c70-a57b-719c49402479)
+
 
 ## Inhoudsopgave
 
