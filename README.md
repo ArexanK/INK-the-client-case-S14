@@ -21,7 +21,7 @@ We ontwikkelen een dynamische website voor INK - Lama Lama's voetbalclub in Rio 
 We ontwikkelen een dynamische website voor INK voetbalclub in Rio de Janeiro om sponsoren aan te trekken en het inspirerende verhaal van de club te delen. 
 
 
-#Tools
+##Tools
 * 🖥 Hygraph CMS
 * 🖥 Sveltekit
 * 🖥 HTML, CSS, JAVASCRIPT
