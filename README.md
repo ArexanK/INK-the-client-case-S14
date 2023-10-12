@@ -39,7 +39,7 @@ We hebben ons project ontwikkeld met SvelteKit, een framework, en Hygraph, een h
 
 ## Bronnen 📚
 
-* [Hygraph documentatie] (https://hygraph.com/docs)
+* [Hygraph documentatie](https://hygraph.com/docs)
 * [SvelteKit 1.0 Crash Course - Full Tutorial with Prismic](https://www.youtube.com/watch?v=mDQy0NsBrwg&t=666s)
 * [Sveltekit documentatie](https://kit.svelte.dev/)
 
