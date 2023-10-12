@@ -33,6 +33,10 @@ Op onze website vind je twee aparte pagina's: een "Over Ons", "Sponser" en een "
 * Open de repository in je code-editor
 * Open een live server door middel van Visual studio code
 * Om je project online te zetten, kun je gebruik maken van 'Github Pages'
+
+* NPM- install 
+* # or start the server and open the app in a new browser tab
+npm run dev -- --open
   
 ## Gebruik 🖇
 We hebben ons project ontwikkeld met SvelteKit, een framework, en Hygraph, een headless CMS. In Hygraph hebben we de gegevens aangemaakt, die we vervolgens met SvelteKit hebben opgehaald en op de website hebben weergegeven, verder hebben wij de website gestyled met gebruik van CSS.
